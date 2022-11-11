@@ -1,2 +1,2 @@
-# Learning Javascript 
+# Learn Javascript 
  My Javascript Notes
